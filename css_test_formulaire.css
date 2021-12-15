@@ -1,0 +1,229 @@
+h1
+{
+    color: rgb(83, 83, 83);
+    text-align: center;
+    text-decoration: underline;
+    font-style: italic;
+    font-size: 52px;
+}                                                                                                   
+h2
+{
+    color: tomato;
+    font-size: 45px;
+    font-style: italic;
+    text-decoration: underline;
+}
+
+h3
+{
+    color: rgb(92, 2, 209) ;
+    font-size: 30px;
+    text-align: right;
+    font-style: italic;
+}
+
+
+.minecraft-image
+{
+    background-image: url("minecraft_image.png");
+}
+
+
+
+
+.nom
+{
+    color: blue;
+}
+
+.minecraft
+{
+    font-size: 18px;
+    font-family: cursive;
+    font-style: italic;
+    color: yellow;
+}
+
+.gta-image
+{
+    background-image: url("gta_image.jpg");
+}
+
+.gta
+{
+    font-size: 22px;
+    font-family: cursive;
+    font-style: italic;
+    color: darkslategray;
+}
+
+
+
+.source-minecraft
+{
+    font-size: 25px;
+    text-align: right;
+}
+
+.source-gta
+{
+    font-size: 25px;
+    text-align: right;
+}
+ 
+
+body{background-color: burlywood;}
+
+.tetris
+{
+    font-size: 20px;
+    font-family: cursive;
+    font-style: italic;
+    color: yellow;
+}
+
+.tetris-image
+{
+    background-image: url("tetris_image.jpg");
+}
+
+.source-tetris
+{
+    font-size: 25px;
+    text-align: right;
+}
+
+
+.wii-sports
+{
+    font-size: 19px;
+    font-family: cursive;
+    font-style: italic;
+    color: lightslategrey;
+}
+
+.wii-sports-image
+{
+    background-image: url("wii-sports_image.jpg");
+}
+
+.source-wii-sports
+{
+    font-size: 25px;
+    text-align: right; 
+}
+
+
+.pubg
+{
+    font-size: 18px;
+    font-family: cursive;
+    font-style: italic; 
+    color: yellow;
+}
+
+
+
+
+
+.pubg-image
+{
+    background-image: url("pubg_image.jpg");
+}
+
+.source-pubg
+{
+    font-size: 25px;
+    text-align: right;
+}
+
+
+.titanic
+{
+    font-size: 20px;
+    font-family: cursive;
+    font-style: italic;
+    color: gray; 
+}
+
+.titanic-image
+{
+    background-image: url("titanic_image.jpg");
+}
+
+.source-titanic
+{
+    font-size: 25px;
+    text-align: right;
+}
+
+.chtis
+{
+    font-size: 21px;
+    font-family: cursive;
+    font-style: italic;
+    color: cornflowerblue;
+}
+
+.chtis-image
+{
+    background-image: url();
+}
+
+.source-chtis
+{
+    font-size: 25px;
+    text-align: right;
+}
+
+
+.intouchables
+{
+    font-family: cursive;
+    font-size: 21px;
+    font-style: italic;
+    color: black;
+}
+
+.blancheneige
+
+
+
+.c
+{
+    text-align: center;
+    width: 100px;
+    height: 28px;
+    background:gray;
+    border: 3px solid;
+    color:burlywood;
+}
+ 
+.e
+{
+    font-size: 20px;
+    text-align: right;
+}
+
+.f
+{
+    text-align: right;
+    font-size: 20px;
+}
+
+.g
+{
+    font-size:25px;
+    text-align: right;
+    color: gray;
+}
+
+.d
+{
+    width: 100px;
+    height: 25px;
+    background:gray;
+    border: 3px solid;
+    color:aqua;
+    text-align: center;
+}
